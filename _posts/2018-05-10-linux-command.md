@@ -9,7 +9,8 @@ tags: ubuntu16.04
 * content
 {:toc}
 
-##前言
+## 前言
+
 本文列举了一些常用的linux环境下命令行的常用操作。
 
 

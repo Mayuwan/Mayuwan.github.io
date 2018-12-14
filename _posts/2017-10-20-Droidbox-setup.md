@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "DroidBox环境搭建"
-categories: Droidbox
-tags:  linux 工具
+categories: 工具
+tags:  ubuntu16.04 Droidbox
 ---
 
 * content
@@ -11,6 +11,9 @@ tags:  linux 工具
 ## 前言
 
 Ubuntu16.04操作系统下配置Droidbox工具
+
+
+
 
 ###安裝 JDK8
 在/usr/lib/jvm/下解压[jdk-8u5-linux-x64.tar.gz](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)(自行下载)，得到文件夹：jdk1.8.0_05。版本号不同，此处略有不同。

@@ -2,8 +2,8 @@
 layout: post
 title:  "解决安装vmware tools之后仍不能在主机和虚拟机之间传送文件的问题"
 date:   2018-12-06 22:14:54
-categories: virtual machine
-tags: 环境配置
+categories: 虚拟机
+tags: windows
 ---
 
 * content
