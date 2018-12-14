@@ -58,7 +58,7 @@ tags: ubuntu16.04
 #### 磁盘空间剩余
 > df -h
 
-####linux下查看一个可执行文件或动态库依赖哪些动态库
+#### linux下查看一个可执行文件或动态库依赖哪些动态库
 > readelf -d PyGalaxy.so 或
 
 > ldd PyGalaxy.so(可执行文件)
@@ -68,7 +68,7 @@ tags: ubuntu16.04
 
 在命令行里打开虚拟机：emulator -avd 虚拟机名字
 
-####如果ubuntu中存在多个jdk版本
+#### 如果ubuntu中存在多个jdk版本
 1.配置默认jdk  
 >  sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk1.8.0_25/bin/java 300  
 
@@ -89,7 +89,7 @@ tags: ubuntu16.04
 
 > javac -version
 
-####ubuntu常见错误
+#### ubuntu常见错误
 Could not get lock /var/lib/dpkg/lock解决：
 > sudo rm /var/cache/apt/archives/lock
 

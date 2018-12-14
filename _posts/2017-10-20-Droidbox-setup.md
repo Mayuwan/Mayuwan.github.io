@@ -15,10 +15,10 @@ Ubuntu16.04操作系统下配置Droidbox工具
 
 
 
-###安裝 JDK8
+### 安裝JDK8
 在/usr/lib/jvm/下解压[jdk-8u5-linux-x64.tar.gz](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)(自行下载)，得到文件夹：jdk1.8.0_05。版本号不同，此处略有不同。
 
-###配置环境变量
+### 配置环境变量
 
 1 ，按下键Ctrl + Alt+ T打开终端，在命令行输入
 >  sudo gedit ~/.profile
@@ -37,7 +37,7 @@ Ubuntu16.04操作系统下配置Droidbox工具
 > env
 如果JAVA_HOME=/usr/lib/jvm/jdk1.7.0_04，说明配置成功
 
-###安装SDK
+### 安装SDK
 1 ，在documents下新建文件夹
 My_Program/workspace/Android，将android-sdk-linux.tar.gz（自行下载）放到刚新建打文件夹下。
 
@@ -69,7 +69,7 @@ My_Program/workspace/Android，将android-sdk-linux.tar.gz（自行下载）放�
 7 ，然后保存关闭，使用source更新下
 > source ~/.profile
 
-###编辑 ".bashrc"
+### 编辑 ".bashrc"
 
 1 ，按下 CTRL + ALT + T 打开一个新的终端并键入以下命令 : 
 > gedit ~/.bashrc
@@ -83,7 +83,7 @@ export PATH=${PATH}:~/android-sdk-linux/platform-tools
 
 4 ，注销并重新登录您的Ubuntu系統
 
-###配置python环境
+### 配置python环境
 打开一个终端，输入python命令，如果成功进入python环境，则不需要安装，否则：
 1 ，在想要的位置创建目录：mkdir python
 
@@ -96,11 +96,11 @@ make
 make install	
 ```
 
-###下载droidbox工具并运行
-####获取droidbox工具
+### 下载droidbox工具并运行
+#### 获取droidbox工具
 [DroidBox](https://github.com/pjlantz/droidbox)(自行下载)
  
-###开启AVD
+#### 开启AVD
 1.右键点击DroidBox_4.1.1，选择终端打开
 
 2.输入命令:
