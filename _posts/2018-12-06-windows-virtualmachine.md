@@ -34,7 +34,7 @@ tags: 环境配置
 
 2.虚拟机设置->选项，启用共享文件夹，选择你想放置共享文件夹的路径
 
-放图片
+![share.png](https://smile-album.oss-cn-beijing.aliyuncs.com/share.PNG)
 
 3.查看共享文件夹的内容
 
