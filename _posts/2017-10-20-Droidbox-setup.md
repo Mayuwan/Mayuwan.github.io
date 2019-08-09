@@ -99,6 +99,10 @@ make install
 ### 下载droidbox工具并运行
 #### 获取droidbox工具
 [DroidBox](https://github.com/pjlantz/droidbox)(自行下载)
+
+或linux下：
+
+wget https://github.com/pjlantz/droidbox/releases/download/v4.1.1/DroidBox411RC.tar.gz
  
 #### 开启AVD
 1.右键点击DroidBox_4.1.1，选择终端打开
