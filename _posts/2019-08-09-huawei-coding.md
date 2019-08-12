@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "华为秋招笔试第三题"
-date:   2018-08-06 22:14:54
+date:   2019-08-06 22:14:54
 categories: 笔试
 tags: 编程
 ---
