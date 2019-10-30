@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ubunut下使用shadowsocksR翻墙（亲测有效）"
+title:  "ubunut下翻墙（亲测有效）"
 date:   2019-10-30 15:58:54
 categories: ubuntu
 tags: 翻墙
@@ -21,6 +21,8 @@ tags: 翻墙
 
 ###客户端安装过程 
 
+
+
 #### windows系统
 
 1.下载shadowsocksR客户端
@@ -29,7 +31,7 @@ tags: 翻墙
 提取码：yzv7 
 复制这段内容后打开百度网盘手机App，操作更方便哦
 
-2。解压后，启动shadowsocksR，设置相应参数。设置完毕后，就可翻墙，使用chrome浏览器即可翻墙。
+2。解压后，启动shadowsocksR，设置相应参数。设置完毕后，就可翻墙，使用chrome浏览器即可翻墙，
 
 
 #### ubuntu系统

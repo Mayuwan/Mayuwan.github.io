@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ubunut下翻墙（亲测有效）"
+title:  "华为笔试题第三题"
 date:   2019-10-30 15:58:54
 categories: ubuntu
 tags: 翻墙
